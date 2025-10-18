@@ -161,3 +161,5 @@ This project helps you understand:
 - Database operations with **TypeORM** & **PostgreSQL**
 - Full authentication flow using **JWT**
 - Connecting **React** frontend to a RESTful backend
+
+This Readme is written by ChatGPT as I don't have time for this things! ( just kidding actually I am lazy 😅 )
