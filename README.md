@@ -38,7 +38,6 @@ A full-stack web application built with **NestJS**, **PostgreSQL**, and **ReactJ
 - [Axios](https://axios-http.com/)
 - [React Router](https://reactrouter.com/)
 - [Context API](https://react.dev/learn/passing-data-deeply-with-context)
-
 ---
 
 ## 🧩 Environment Variables
